@@ -1,0 +1,53 @@
+h1
+{
+    color:white;
+    background-color: yellowgreen;
+    text-align: center;
+}
+.passage
+{
+    /* color:blue;
+    font-style: italic; */
+    font-size: large;
+    position: relative;
+    left: 30px;
+}
+.c-img
+{
+    margin: 0 auto;
+    padding: 15px 15px;
+    border: 5px dotted khaki;
+    border-radius: 15px;
+    outline: 10px solid yellow;
+    /* position: relative;
+    left: 50px; */
+    display: block;
+    width: 200px;
+}
+.y-img
+{
+    margin: 0 auto;
+    padding: 15px 15px;
+    border: 5px dotted blue;
+    border-radius: 15px;
+    outline: 10px solid skyblue;
+    /* position: relative;
+    left: 50px; */
+    display: block;
+}
+.profile-wrap
+{
+    display: flex;
+    justify-content: center;
+}
+.profile
+{
+    margin: 70px;
+    padding: 15px 15px;
+    border: 2.5px solid gray;
+    border-radius: 10px;
+}
+p.name
+{
+    font-size: 24px;
+}
